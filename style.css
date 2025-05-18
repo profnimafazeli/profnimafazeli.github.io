@@ -54,7 +54,7 @@ table {
 }
 
 #main {
-  width: 70em;
+  width: 60em;
   margin: 0px auto;
   position: center;
   min-height: 100vh;
@@ -98,16 +98,16 @@ h1 {
 }
 
 #intro-image {
-  margin: 5em 0 0 7em;
-  width: 14em;
-  height: 14em;
+  margin: 5em 0 0 2em;
+  width: 12em;
+  height: 12em;
   float: right;
   overflow: hidden;
   border-radius: 1em;
 }
 
 #intro-image img {
-  width: 14em;
+  width: 12em;
 }
 
 /**************************************************/
